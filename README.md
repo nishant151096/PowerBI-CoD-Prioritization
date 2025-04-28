@@ -31,5 +31,17 @@ It combines pre-sales and post-sales models with multiple decision-making criter
 1. Download the `.pbix` file.
 2. Open it using **Power BI Desktop** (free tool from Microsoft).
 
+# Power BI - Cost of Delay (CoD) Prioritization Project
+
+![Project Banner](./banner.png)
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](./dashboard_fullview.png)
+
+## 🎯 Key Charts
+### Project Rankings
+![Project Rankings](./chart_project_ranking.png)
+
+
 ## 🙌 Acknowledgments
 Thanks to the thesis guidance and CoD methodologies which formed the base for this project.
