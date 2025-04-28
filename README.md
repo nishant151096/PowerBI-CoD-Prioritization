@@ -1,5 +1,9 @@
 # Power BI - Cost of Delay (CoD) Prioritization Project
 
+# Power BI - Cost of Delay (CoD) Prioritization Project
+
+![Project Banner](./banner.png)
+
 ## 📘 Project Overview
 This project analyzes and prioritizes product development projects based on Cost of Delay (CoD) methodology. 
 It combines pre-sales and post-sales models with multiple decision-making criteria to guide strategic planning.
@@ -20,6 +24,19 @@ It combines pre-sales and post-sales models with multiple decision-making criter
 - `CoD_Model_Data.xlsx` - Raw data for models and criteria scoring
 - `One Pager Summary.pdf` - Project background (optional)
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](./Data_overview.png)
+
+### 📈 Final Value Comparison Chart
+![Final Value Comparison Chart](./chart_final_value_comparison.png)
+
+### 🪜 Final Value Decomposition Tree
+![Final Value Decomposition Tree](./final_value_tree.png)
+
+## 🎯 Key Charts
+### Project Rankings
+![Project Rankings](./chart_project_ranking.png)
+
 ## 🔥 Key Features
 - Project final values comparison
 - Priority rankings visualization
@@ -31,16 +48,6 @@ It combines pre-sales and post-sales models with multiple decision-making criter
 1. Download the `.pbix` file.
 2. Open it using **Power BI Desktop** (free tool from Microsoft).
 
-# Power BI - Cost of Delay (CoD) Prioritization Project
-
-![Project Banner](./banner.png)
-
-## 📊 Dashboard Preview
-![Dashboard Screenshot](./dashboard_fullview.png)
-
-## 🎯 Key Charts
-### Project Rankings
-![Project Rankings](./chart_project_ranking.png)
 
 
 ## 🙌 Acknowledgments
