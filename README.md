@@ -30,7 +30,7 @@ It combines pre-sales and post-sales models with multiple decision-making criter
 ![Final Value Comparison Chart](./chart_final_value_comparison.png)
 
 ### 🪜 Final Value Decomposition Tree
-![Final Value Decomposition Tree](./final_value_tree.png)
+![Final Value Decomposition Tree](./Final_value_tree.png)
 
 ## 🎯 Key Charts
 ### Project Rankings
