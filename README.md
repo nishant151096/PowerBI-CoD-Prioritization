@@ -1,8 +1,7 @@
 # Power BI - Cost of Delay (CoD) Prioritization Project
 
-# Power BI - Cost of Delay (CoD) Prioritization Project
 
-![Project Banner](./banner.png)
+![Project Banner](./Banner.png)
 
 ## 📘 Project Overview
 This project analyzes and prioritizes product development projects based on Cost of Delay (CoD) methodology. 
